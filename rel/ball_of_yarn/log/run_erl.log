@@ -1,0 +1,8 @@
+run_erl [15521] Wed Dec  2 18:01:41 2015
+Args before exec of shell:
+run_erl [15521] Wed Dec  2 18:01:41 2015
+argv[0] = sh
+run_erl [15521] Wed Dec  2 18:01:41 2015
+argv[1] = -c
+run_erl [15521] Wed Dec  2 18:01:41 2015
+argv[2] = exec "/home/ckincanon/code/ball-of-yarn/rel/ball_of_yarn/bin/ball_of_yarn" "console"
